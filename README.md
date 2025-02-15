@@ -18,10 +18,6 @@
             document.title = pageTitle;
          }
          
-         function redirect() {
-            window.location.href = currentURL;
-         }
-         
          function onload() {
             setTitle();
             redirect();
