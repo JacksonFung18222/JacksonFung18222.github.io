@@ -9,7 +9,7 @@ body, html {
 }
 ​
 .bg {
-  background-image: url("YungYung.jpg");
+  background-image: url("YungYung.png");
 ​
   height: 100%; 
 ​
