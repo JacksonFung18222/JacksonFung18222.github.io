@@ -1,11 +1,13 @@
 <!DOCTYPE html>
-<html>
-  <body>
-    <video autoplay loop width="100%">
-    <video width="320" height="240" controls autoplay controls loop>
-      <source src="Ape8.mp4" type=video.mp4>
-      Your browser does not support the video tag.
-    <video>
-    
-  </body>
-</html>
+body, html {
+  height: 100%;
+}
+
+.bg {
+  background-image: url("YungYung.jpg");
+
+  height: 100%;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
